@@ -1,6 +1,7 @@
 # IMAGE COMPRESSION USING SVD
 
 A simple program to compress `.pgm` image using SVD.
+For me it is used in Yale Face Database.
 
 ## Usage
 ```
